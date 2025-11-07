@@ -1,0 +1,16 @@
+{
+  "metrics_test": {
+    "rmse": 70899.43096361222,
+    "mae": 38654.02370033121,
+    "r2": 0.5933536140221785
+  },
+  "n_train": 944,
+  "n_test": 237,
+  "best_estimator": "extra_tree",
+  "best_loss": 73123.98503558667,
+  "best_config": {
+    "n_estimators": 371,
+    "max_features": 0.26809588181602056,
+    "max_leaves": 65
+  }
+}
